@@ -37,10 +37,10 @@
 1. **Taking the mickey**: is an informal British phrase that means to make fun of someone or something, usually in an unkind way.
 2. **An ynche in a misse is as good as an ell**: A miss is as good as a mile.
 3. **Throwing the baby out with the bathwater**: an idiom that means to accidentally get rid of something good when trying to get rid of something bad.
-4**Whole hog**: an idiom that means to do something completely or to the fullest extent.
-5**Dead as a doornail**: phrase meaning assuredly dead.
-6**To know which side your bread is buttered on**: an idiom that means to understand what is in your best interest or what will help you.
-7**Enough to get your goat**: an idiom that means something is annoying or irritating to the point of making you angry.
+4. **Whole hog**: an idiom that means to do something completely or to the fullest extent.
+5. **Dead as a doornail**: phrase meaning assuredly dead.
+6. **To know which side your bread is buttered on**: an idiom that means to understand what is in your best interest or what will help you.
+7. **Enough to get your goat**: an idiom that means something is annoying or irritating to the point of making you angry.
 
 ### Vocabulary:
 **plunder**: steal goods from (a place or person), typically using force and in a time of war or civil disorder.\
