@@ -45,3 +45,6 @@
 ### Vocabulary:
 **plunder**: steal goods from (a place or person), typically using force and in a time of war or civil disorder.\
 **paroemion**: is a form of alliteration where nearly every word in a sentence begins with the same consonant. Ex: The delicious doughnut drew delicate designs, drizzling delectable damson drops down Dave's duck-down vest.
+
+
+## 02: Polyptoton
