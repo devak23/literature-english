@@ -1,4 +1,4 @@
-21-Dec-2024
+20-Dec-2024
 ## 01: Alliteration
 - `thou hadst small Latin and less Greek` - Ben Jonson (Shakespeare's friend)
 
@@ -48,7 +48,7 @@
 **paroemion**: is a form of alliteration where nearly every word in a sentence begins with the same consonant. Ex: The delicious doughnut drew delicate designs, drizzling delectable damson drops down Dave's duck-down vest.
 
 ---
-22-Dec-2024
+21-Dec-2024
 ## 02: Polyptoton
 - Please Please Me’ is a classic case of polyptoton.
 - The first please is please the interjection, as in ‘Please mind the gap’. The second please is a verb meaning to give pleasure, as in ‘This pleases me’. Same word: two different parts of speech.
@@ -74,7 +74,7 @@
 
 ---
 ## 03: Antithesis
-23-Dec-2024
+22-Dec-2024
 
 - Antitheses are simple: first you mention one thing: then you mention another.
 - Oscar Wilde was the master of these, with lines like, ‘The well-bred contradict other people. The wise contradict themselves.’
@@ -98,7 +98,29 @@
   it was the spring of hope, it was the winter of despair,\
   we had everything before us, we had nothing before us, \
   we were all going direct to Heaven, we were all going direct the other way ...
+- T.S Eliot wrote: 'Immature poets imitate. Mature poets steal.'
+- The great subject of antithesis seems to be marriage. ‘Marriage has many pains, but celibacy has no pleasures’ (Samuel Johnson)
+- 'Kissing don't last, cookery do' (George Meredith)
 
 ### Vocabulary:
 **epigram**: a pithy saying or remark expressing an idea in a clever and amusing way.\
 **chock-a-block**: crammed full of people or things.
+
+---
+23-Dec-2024
+## 04: Merism
+
+- Merism is when you don’t say what you’re talking about, and instead name all of its parts. Ladies and gentlemen, for example, is a merism for people, because all people are either ladies or gentlemen. 
+- The beauty of merism is that it’s absolutely unnecessary.
+- In the medieval marriage service ‘sickness and health’ were followed by: ‘to be bonny and buxom, in bed and at board, till death do us part.’ How could a wife guarantee that she would be buxom?
+- The word buxom has changed in meaning over the years. The first citation in the Oxford English Dictionary comes from the twelfth century and is defined as: ‘Obedient; pliant; compliant, tractable.’ The sense then changed to happy, then to healthy, and thence to plump.
+- While the word "bonny" comes from the French `bon` and the Latin `bonus`, both of which mean good. So a bonny and buxom wife was a good and obedient one.
+- Tennyson wrote up one of the most memorable in The Charge of the Light Brigade where the six hundred have:
+  Cannon to right of them,\
+  Cannon to left of them,\
+  Cannon in front of them ...\
+- the word quaquaversally meaning in every direction. ‘Cannon quaquaversally’ would have saved time, but wouldn’t have been nearly as poetic
+- Natural home of merism is in legal documents. A lawyer, for a reason or reasons known only to him or herself, cannot see a whole without dividing it into its parts and enumerating them in immense detail. The lawyer’s lucky phrase is ‘including but not limited to’, which gets you out of the utterly unnecessary trouble that the utterly unnecessary merism got you into in the first place. Merism searches for wholes, and leaves holes
+
+### Vocabulary:
+**derided**: express contempt for; ridicule.
