@@ -70,7 +70,7 @@
 - Polyptoton, even though nobody has ever heard of it, succeeds, and nothing succeeds like success. Its like you talk the talk and walk the walk.
 
 ### Vocabulary:
-**jaunt**: a short excursion or journey made for pleasure.
+1. **jaunt**: a short excursion or journey made for pleasure.
 
 ---
 ## 03: Antithesis
@@ -103,8 +103,8 @@
 - 'Kissing don't last, cookery do' (George Meredith)
 
 ### Vocabulary:
-**epigram**: a pithy saying or remark expressing an idea in a clever and amusing way.\
-**chock-a-block**: crammed full of people or things.
+1. **epigram**: a pithy saying or remark expressing an idea in a clever and amusing way.
+2. **chock-a-block**: crammed full of people or things.
 
 ---
 23-Dec-2024
@@ -123,4 +123,50 @@
 - Natural home of merism is in legal documents. A lawyer, for a reason or reasons known only to him or herself, cannot see a whole without dividing it into its parts and enumerating them in immense detail. The lawyer’s lucky phrase is ‘including but not limited to’, which gets you out of the utterly unnecessary trouble that the utterly unnecessary merism got you into in the first place. Merism searches for wholes, and leaves holes
 
 ### Vocabulary:
-**derided**: express contempt for; ridicule.
+1. **derided**: express contempt for; ridicule.
+
+---
+24-Dec-2024
+## 05: The Blazon (Merrism went too far)
+
+- When poets fall in love, they make a list of their loved one’s body parts and attach similes to them. Your lips are like cherries, your hair is like gold, and your eyes are like traffic lights that make my heart stop and go.
+- The final and finest blazon is an epitaph for a drowned man:\
+  Full fathom five thy father lies;\
+  Of his bones are coral made;\
+  Those are pearls that were his eyes;\
+  Nothing of him that doth fade,\
+  But doth suffer a sea-change\
+  Into something rich and strange.\
+- The idea that an oyster has eaten and then excreted your eyeballs is about as romantic as the blazon gets, yet it continues.
+- But her smile is like a breath of spring, which is an example of synaesthesia.
+
+---
+25-Dec-2024
+## 06: Synaesthesia
+
+- Synaesthesia is either a mental condition whereby colours are perceived as smells, smells as sounds, sounds as tastes etc., or it is a rhetorical device whereby one sense is described in terms of another. If colours are harmonious or a voice is silky, that is synaesthesia
+- Sight and sound are interchangeable. ‘Orange’, colours can be loud or discordant while melodies can be bright and rumblings dark.
+- Tone is even an ambiguous word that can be applied to either sense.
+- Blues music is no more blue than blue movies are.
+- Touch can be applied to sound – a gravelly voice – and to sight – the warm colours of a painting.
+- Taste gives you a couple of terms of approbation – delicious and tasty – and of deprecation – bland or disgusting.
+- Smell sits apart on his own. 
+- She smelled the way the Taj Mahal looks by moonlight. _The Little Sister_ by Raymond Chandler
+- Synaesthesias of smell are jarring and effective, and are probably an easy shortcut to a memorable line.
+- However, caution should be observed.Many critics have been wrong, some amazingly so, but few will be remembered as Eduard Hanslick is; he wrote of Tchaikovsky’s First Violin Concerto which showed there could be ‘music that stinks to the ear’.
+- Synaesthesia reaches its purest form when a sense is given to something completely abstract. Victory does not look like anything visible or sound like anything audible or taste like anything edible, but it has a smell, a smell memorably described in _Apocalypse Now_
+  I love the smell of napalm in the morning. You know, one time we had a hill bombed, for twelve hours. [...] The smell, you know that gasoline smell, the whole hill. Smelled like ... victory. Someday this war’s gonna end ...
+
+### Idioms, Proverbs & Phrases:
+1. pull you up short: is an idiom which means "to suddenly stop what one is doing." Ex:
+   - I had to slam on the brakes when the car in front of me pulled up short.
+   - He began to answer her question and then pulled up short.
+   - And that is why the Raymond Chandler line is so striking. Though the sense is quite discernible, the expression of it pulls you up short.
+
+
+### Vocabulary:
+1. **discordant**: disagreeing or incongruous
+2. **approbation**: approval or praise.
+3. **emissaries**: a person sent as a diplomatic representative on a special mission.
+4. **odious**: extremely unpleasant; repulsive.
+5. **discernible**: perceptible
