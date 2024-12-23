@@ -3,6 +3,7 @@
 - `Poule` in French means chicken.
 - `jeu de poule` in French means the person who won "The game of chicken".
 
+---
 ## 02: Hydrogentlemanly
 - The word `gene` comes from Greek word `genos` which means birth.
 - Same root is found in generation, regeneration and degenration.
@@ -22,7 +23,7 @@ idiopathic: arising spontaneously\
 craniofacial: which involves cranium and face\
 gingerly: in a careful or cautious manner 
 
-
+---
 ## 03: The Old and New Testicle
 - Gonads are testicles and testicles shouldn’t really have anything to do with the Old and New Testaments, but they do.
 - The Testaments of the Bible testify to God’s truth
@@ -31,3 +32,22 @@ gingerly: in a careful or cautious manner
   and testicle (testifying to a man’s virility)
 - Avocado - Aztech's balls. The Aztecs were a Mesoamerican civilization that flourished in central Mexico in the post-classic period from 1300 to 1521. The Aztec people included different ethnic groups of central Mexico, particularly those groups who spoke the Nahuatl language. The Nahuatl word `ahuacatl` means "avocado". When the Spanish arrived they misheard this slightly and called it aguacate, and the English changed this slightly to avocado.
 - `Orchis` in Greek also means testicle and is borrowed from Latin. The technical term for somebody who has a lot of balls is a polyorchid. 
+
+---
+## 04: Parenthetical Codpieces
+- Ancient Gauls were the original inhabitants of France.
+- One of the Gaulish words that the Gauls used to speak was `braca` meaning trousers.
+- Gallic wars were waged between 58 and 50 BC led by Roman general Julius Caeser against the people of Gaul(France, Belgium and Switzerland). The Gaul were defeated finally in the war of Alesia in 52 BC.
+- The romans didn't have word for trousers as they wore `togas` and hence the gaulish term survived
+- From braca came the early French `brague` meaning trousers.
+- When they (French) wanted a word for a codpiece they decided to call it a `braguette` or little trousers not to be confused with `baguette` which means stick
+- Henry VIII’s codpiece, for example, was a gargantuan combination of efficiency and obscenity. It bulged out from the royal groin and stretched up to a metal plate that protected the royal belly. Architecturally you can see this when a bit of stone bulges out from a pillar to support a balcony or a roof. Such architectural structures came to be known as `braggets`
+- Captain John Smith wrote "The Sea-Man’s Grammar and Dictionary: Explaining all the Difficult Terms of Navigation" hit the bookstands in 1627 in which spelt `braggets` as `brackets`, and the spelling stuck.
+- Thus the original architectural device was called a bragget/bracket, because it looked like a codpiece. An architectural double bracket looks like this: [ 
+- If you look at the top right-hand corner of your computer keyboard, you will see two little codpieces []
+
+
+### vocabulary
+gargantuan: enormous
+
+---

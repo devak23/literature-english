@@ -46,5 +46,26 @@
 **plunder**: steal goods from (a place or person), typically using force and in a time of war or civil disorder.\
 **paroemion**: is a form of alliteration where nearly every word in a sentence begins with the same consonant. Ex: The delicious doughnut drew delicate designs, drizzling delectable damson drops down Dave's duck-down vest.
 
-
+---
 ## 02: Polyptoton
+- Please Please Me’ is a classic case of polyptoton.
+- The first please is please the interjection, as in ‘Please mind the gap’. The second please is a verb meaning to give pleasure, as in ‘This pleases me’. Same word: two different parts of speech.
+- Shakespeare was so fond of polyptoton that he just repeated himself wholesale. He had a trick and he liked it and he used it again and again. So in Richard II Bolingbroke, busy revolting, says ‘My gracious uncle’, but his uncle, the Duke of York replies:\
+  Tut, tut!\
+  Grace me no grace, nor uncle me no uncle:\
+  I am no traitor’s uncle; and that word ‘grace’\
+  In an ungracious mouth is but profane.
+- Anybody can write ‘Hello me no hellos’. It is a trick available to everyone
+  and the best example was by a lady called Susanna Centlivre from "The Busybody" where a son is arguing with his father about the usual father–son issues of money, marriage, and remarriage. The father says:\
+  Sir Francis: Out of my Doors, you Dog; you pretend to meddle with my Marriage, Sirrah.\
+  Charles: Sir, I obey: But—\
+  Sir Francis: But me no Buts— Be gone, Sir: Dare to ask me for Money agen— Refuse Forty Thousand Pound! Out of my Doors, I say, without Reply.
+- These are the most obvious forms of polyptoton: but verb versus but viewed as a word itself. It’s almost too easy to do, but you’re bound to come up with a good line, so "never say never".
+- Much more subtle are Shakespeare’s ‘Speak the speech’ or ‘The rain it raineth every day’, both of which could be shortened to ‘Speak’ or ‘It
+  raineth’, but they wouldn’t sound as good.
+- The son of God tended to use subtler polyptotons. ‘Give us this day our daily bread and forgive us our trespasses as we forgive them that trespass against us’ is a pretty neat double.
+- Polyptoton is a favourite of Jesus, Shakespeare and John Lennon. With a trio like that one can almost forget the smaller voices: Moses’ wife saying ‘I have been a stranger in a strange land’, or William Blake’s ‘Piper, pipe that song again’.
+- Polyptoton, even though nobody has ever heard of it, succeeds, and nothing succeeds like success. Its like you talk the talk and walk the walk.
+
+### Vocabulary:
+**jaunt**: a short excursion or journey made for pleasure.
