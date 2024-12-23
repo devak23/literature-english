@@ -1,3 +1,4 @@
+21-Dec-2024
 ## 01: Alliteration
 - `thou hadst small Latin and less Greek` - Ben Jonson (Shakespeare's friend)
 
@@ -47,6 +48,7 @@
 **paroemion**: is a form of alliteration where nearly every word in a sentence begins with the same consonant. Ex: The delicious doughnut drew delicate designs, drizzling delectable damson drops down Dave's duck-down vest.
 
 ---
+22-Dec-2024
 ## 02: Polyptoton
 - Please Please Me’ is a classic case of polyptoton.
 - The first please is please the interjection, as in ‘Please mind the gap’. The second please is a verb meaning to give pleasure, as in ‘This pleases me’. Same word: two different parts of speech.
@@ -69,3 +71,34 @@
 
 ### Vocabulary:
 **jaunt**: a short excursion or journey made for pleasure.
+
+---
+## 03: Antithesis
+23-Dec-2024
+
+- Antitheses are simple: first you mention one thing: then you mention another.
+- Oscar Wilde was the master of these, with lines like, ‘The well-bred contradict other people. The wise contradict themselves.’
+- Wildean antitheses are not too hard. You make a first statement that is relatively obvious, for example, 
+  - ‘If a man is a gentleman he knows quite enough.’ The second half begins in an obvious way: ‘If he is not a gentleman’ ... and then takes an odd turn: ‘whatever he knows is bad for him.’
+  - ‘Wicked women bother one’ looks as though it will be followed by ‘Good women console one’, but instead it is followed by ‘Good women bore one.’ **OR**
+  - Women represent the triumph of matter over mind; men represent the triumph of’ ... and again the reader expects mind over matter, but instead gets ‘mind over morals’. **OR** 
+  - ‘Journalism is unreadable, and literature is not read’ **OR**
+  - ‘If one plays good music, people don’t listen, and if one plays bad music people don’t talk.’ **OR**
+  - Some men invent epigrams – and then you add unexpected inversion – others are invented by them.
+- But these are all just plays on the basic formula of antithesis: X is Y, and not X is not Y.
+- ‘Fashion is what one wears oneself. What is unfashionable is what other people wear.’
+- Any statement, however basic, can grow into an antithesis. Why just say 'life is sweet' when you can add that 'death is sour'?
+- Why point out that the sun rises in the morning without mentioning that it sets in the evening? Of course, anyone could have worked the second halves out for themselves, but what does that matter? United we stand, divided we fall, even though both statements imply the other.
+- If you said that "Those who can’t write themselves instruct other people on how to write", who would remember? But say ‘Those who can, do: those who can’t, teach’ then it becomes a memorable line.
+- Charles Dickens in "The tale of two cities"\
+  It was the best of times, it was the worst of times,\
+  it was the age of wisdom, it was the age of foolishness,\
+  it was the epoch of belief, it was the epoch of incredulity, \
+  it was the season of Light, it was the season of Darkness,\
+  it was the spring of hope, it was the winter of despair,\
+  we had everything before us, we had nothing before us, \
+  we were all going direct to Heaven, we were all going direct the other way ...
+
+### Vocabulary:
+**epigram**: a pithy saying or remark expressing an idea in a clever and amusing way.\
+**chock-a-block**: crammed full of people or things.

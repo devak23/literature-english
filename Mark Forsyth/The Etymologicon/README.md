@@ -1,9 +1,11 @@
+20-Dec-2024
 ## 01: A Game of Chicken
 
 - `Poule` in French means chicken.
 - `jeu de poule` in French means the person who won "The game of chicken".
 
 ---
+21-Dec-2024
 ## 02: Hydrogentlemanly
 - The word `gene` comes from Greek word `genos` which means birth.
 - Same root is found in generation, regeneration and degenration.
@@ -24,6 +26,7 @@ craniofacial: which involves cranium and face\
 gingerly: in a careful or cautious manner 
 
 ---
+22-Dec-2024
 ## 03: The Old and New Testicle
 - Gonads are testicles and testicles shouldn’t really have anything to do with the Old and New Testaments, but they do.
 - The Testaments of the Bible testify to God’s truth
@@ -34,6 +37,7 @@ gingerly: in a careful or cautious manner
 - `Orchis` in Greek also means testicle and is borrowed from Latin. The technical term for somebody who has a lot of balls is a polyorchid. 
 
 ---
+23-Dec-2024
 ## 04: Parenthetical Codpieces
 - Ancient Gauls were the original inhabitants of France.
 - One of the Gaulish words that the Gauls used to speak was `braca` meaning trousers.
