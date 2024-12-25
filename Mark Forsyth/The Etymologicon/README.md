@@ -71,3 +71,23 @@
 ### vocabulary
 1. **breeches**: short trousers fastened just below the knee, now chiefly worn for riding or as part of ceremonial dress.
 2. **megalomartyrs**: the great martyrs
+
+---
+25-Dec-2024
+## 06: Pans
+
+- Pants and panties have the root in Saint Pantaleon
+- Pandora was the greek woman who was given a box that she really shouldn't have opened.
+- Pan is one of those elements that gets everywhere.
+- When a film camera pans across from one face to another, that pan comes from the same Greek word that you’ll find in your underpants
+- Cinematic panning is short for the Panoramic Camera, which was patented back in 1868 and so called because a panorama is where you see everything
+- A panacea cures absolutely everything, which is useful if you’re in the middle of a pandemic
+- An epidemic is only among the people, whereas a pandemic means all the peoples of the world are infected.
+- Pantophobia is the granddaddy of all phobias which means a morbid fear of absolutely everything.
+- Panpathy means those feelings that everybody has now and then.
+- However, not all pans mean all. It’s one of the great problems of etymology that there are no hard and fast rules
+- The pans and pots in your kitchen have nothing whatsoever to do with panoramas.
+- Panic is not a fear of everything; it is, in fact, the terror that the Greek god Pan, who rules the forests, is able to induce in anybody who takes a walk in the woods after dark.
+- Back in 27 BC the Roman general Marcus Agrippa built a big temple on the edge of Rome and, in a fit of indecision, decided to dedicate it to all the gods at once. Six hundred years later the building was still standing and the Pope decided to turn it into a Christian church dedicated to St Mary and the Martyrs. Fourteen hundred years after that it’s still standing and still has its original roof. Technically it’s now called the Church of Saint Mary, but the tourists still call it the Pantheon, or All the Gods.
+- The exact opposite of the Pantheon is Pandemonium, the place of all the demons. 
+- These days pandemonium is just a word we use to mean that everything is a bit chaotic, but originally it was a particular palace in Hell. (one of the hundreds of English words invented by John Milton).
