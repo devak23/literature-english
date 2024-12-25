@@ -115,10 +115,16 @@
 - In the medieval marriage service ‘sickness and health’ were followed by: ‘to be bonny and buxom, in bed and at board, till death do us part.’ How could a wife guarantee that she would be buxom?
 - The word buxom has changed in meaning over the years. The first citation in the Oxford English Dictionary comes from the twelfth century and is defined as: ‘Obedient; pliant; compliant, tractable.’ The sense then changed to happy, then to healthy, and thence to plump.
 - While the word "bonny" comes from the French `bon` and the Latin `bonus`, both of which mean good. So a bonny and buxom wife was a good and obedient one.
-- Tennyson wrote up one of the most memorable in The Charge of the Light Brigade where the six hundred have:
-  Cannon to right of them,\
+- Tennyson wrote up one of the most memorable in The Charge of the Light Brigade where the six hundred have:\
+  _Cannon to right of them,\
   Cannon to left of them,\
-  Cannon in front of them ...\
+  Cannon in front of them\
+  Volleyed and thundered;\
+  Stormed at with shot and shell,\
+  Boldly they rode and well,\
+  Into the jaws of Death,\
+  Into the mouth of hell\
+  Rode the six hundred._
 - the word quaquaversally meaning in every direction. ‘Cannon quaquaversally’ would have saved time, but wouldn’t have been nearly as poetic
 - Natural home of merism is in legal documents. A lawyer, for a reason or reasons known only to him or herself, cannot see a whole without dividing it into its parts and enumerating them in immense detail. The lawyer’s lucky phrase is ‘including but not limited to’, which gets you out of the utterly unnecessary trouble that the utterly unnecessary merism got you into in the first place. Merism searches for wholes, and leaves holes
 
@@ -136,7 +142,7 @@
   Those are pearls that were his eyes;\
   Nothing of him that doth fade,\
   But doth suffer a sea-change\
-  Into something rich and strange.\
+  Into something rich and strange.
 - The idea that an oyster has eaten and then excreted your eyeballs is about as romantic as the blazon gets, yet it continues.
 - But her smile is like a breath of spring, which is an example of synaesthesia.
 
