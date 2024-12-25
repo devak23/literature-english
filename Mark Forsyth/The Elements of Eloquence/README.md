@@ -170,3 +170,33 @@
 3. **emissaries**: a person sent as a diplomatic representative on a special mission.
 4. **odious**: extremely unpleasant; repulsive.
 5. **discernible**: perceptible
+
+---
+26-Dec-2024
+## 07: Aposiopesis
+
+- Aposiopesis is ...(English punctuation by three dots)
+- There were two important trees in the Garden of Eden: the Tree of Knowledge and the Tree of Life. We chose knowledge. Once the game was up, He cursed Adam, Eve and the talking snake, and then He said:\
+  _And now, lest he put forth his hand, and take also of the tree of life, and eat,\
+  and live for ever ... Therefore the Lord God sent him forth from the garden of\
+  Eden, to till the ground from whence he was taken_.
+- God did not finish His sentence. But the point of aposiopesis is that you don’t need to go on\
+  _**When in Rome... (do as the romans do)\
+  Speak of the devil...(and doth he appears)\
+  United we stand...(divided we fall)\
+  Out of the mouth of babes... (and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger)**_
+- Sometimes, though, aposiopesis is because you simply don’t know what to say. This can leave you looking rather foolish, like a parent trying to get children to do something but not being able to think, o and, of an appropriate threat. Thus poor King Lear with his naughty daughters:\
+  **_No, you unnatural hags,\
+  I will have such revenges on you both,\
+  That all the world shall ... I will do such things ...\
+  What they are, yet I know not: but they shall be\
+  The terrors of the earth._**\
+  which is much verbose version of saying  _‘Tidy your room, or else ...’_
+
+
+### Idioms, Proverbs & Phrases:
+1. **out of the mouths of babes (and sucklings)**: an idiom is used to describe when a child says something that is wise or surprising. For example, “She's only six but she said, quite rightly, that Harry was afraid of the sitter—out of the mouths of babes, Mother said”
+
+### Vocabulary:
+1. **whodunit**: a story or play about a murder in which the identity of the murderer is not revealed until the end.
+
