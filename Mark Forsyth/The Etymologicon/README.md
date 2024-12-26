@@ -95,7 +95,7 @@
 ---
 27-Dec-2024
 ## 07: Miltonic Meanders
-- _Pardise Lost_ is about Adam and Eve which don't appear till the second chapter. It is about the fall of the Satan from heaven and fall of the humanity from the Garden of Eden into the land of Nod and is generally speaking downhill poem.
+- _Pardise Lost_ is about Adam and Eve which don't appear till the second chapter of the "Book of Genesis". It is about the fall of the Satan from heaven and fall of the humanity from the Garden of Eden into the land of Nod and is generally speaking downhill poem.
 - In Milton’s poem, when Satan is thrown out of Heaven and into Hell, the first thing he decides to do is to get a roof over his head. So he summons all the other fallen angels and gets them to build a huge and hideous palace. And just as the Pantheon is the temple of All the Gods, so Satan decides to name his new pied-à-terre _All the Demons_ OR _Pandemonium_, and that’s how the word was invented.
 - impassive, obtrusive, jubilant, loquacious, unconvincing, Satanic, persona, fragrance, beleaguered, sensuous, undesirable, disregard, damp, criticise, irresponsible, lovelorn, exhilarating, sectarian, unaccountable, incidental and cooking are all Milton's words.
 - When it came to inventive wording, Milton actually invented the word _wording_.
@@ -116,6 +116,11 @@
 
 ### Idioms, Phrases and Proverbs:
 1. **tripping the light fantastic**: to perform a series of usually rhythmic bodily movements to music, dance (in particular ballroom dancing)
+2. **land of nod**: a state of sleep
+3. **law of unintended consequences**: The law of unintended consequences is the idea that the results of actions and policies can have hidden costs and consequences that are not always clear or immediately observable. These consequences can be beneficial, harmful, or neutral, and may or may not be foreseeable. Ex:\ 
+ **Steel quotas**: These quotas help steel companies, but they also make less steel available to automakers.\
+ **The Great Chinese Famine**: The Chinese government declared war on sparrows in 1958, and the birds were nearly hunted to extinction. This led to an explosion of insects that ate the rice crop, causing the famine.\
+ **The Leaning Tower of Pisa**: The tower's foundations unexpectedly failed, but the tower became a popular tourist attraction, bringing revenue to the town.
 
 ### Vocabulary
 1. **pomavorous**: apple eating 
