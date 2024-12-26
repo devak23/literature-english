@@ -216,6 +216,8 @@
 - Adjectives in English absolutely have to be in this order: opinion-size-age-shape-colour-origin-material-purpose Noun. So you can have a lovely little old rectangular green French silver whittling knife. But if you mess with that word order in the slightest it will be deemed incorrect.
 - Since size comes before colour, green great dragons can’t exist.
 - When you repeat a word with a diﬀerent vowel, the order is always I A O. So you have Bish Bash Bosh. Politicians may _flip-flop_, but they can never flop-flip.It’s _tit-for-tat_, never tat-for-tit. This is called **_ablaut reduplication_**, and if you do things any other way, they sound very odd indeed. Similar examples exist like: _ding-dong_ (not dong ding) and _hip-hop_ (not hop-hip)
+- The importance of English word order is also the reason that the idea that you can’t end a sentence with a preposition (which is utter hogwash). The rule is often unfairly blamed on a chap called Robert Lowth who wrote a book called A Short Introduction to English Grammar (1762) which says: \
+  _PREPOSITIONS have Government of Cases; and in English they always require the Objective Case after them: as, ‘with him; from her, to me.’ The Preposition is often separated from the Relative which it governs and joined to the Verb at the end of the Sentence, or of some member of it. Ex: ‘Horace is an author, whom I am much delighted with.’This is an Idiom which our language is strongly inclined to; it prevails in common conversation, and suits very well with the familiar style in writing; but the placing of the Preposition before the Relative is more graceful as well as more perspicuous; and agrees much better with the solemn and elevated Style_
 - Any phrasal verb in the imperative has to end with a preposition. Otherwise, you’d shout ‘Out look! Down get! On we are being fired!’ Referees would say ‘On play’. Oﬀ would take planes. And nobody would be allowed to _sleep in_.
 - Hyperbaton is a slap in the face to any English speaker. n 1642 a chap called Richard Lovelace was stuck in prison, pining for his girlfriend. He wrote her a poem about how he wasn’t really in prison, and proved it with metaphor. The last verse began:\
  _**Stone walls do not a prison make,\
@@ -225,4 +227,5 @@
 
 ### Vocabulary:
 1. **hogwash**: nonsense
-2. **slapdash**: done too hurriedly and carelessly. (ex: he gave a slapdash performance) 
+2. **slapdash**: done too hurriedly and carelessly. (ex: he gave a slapdash performance)
+3. **perspicuous**: clearly expressed and easily understood; lucid.
