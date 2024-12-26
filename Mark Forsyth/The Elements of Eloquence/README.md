@@ -206,3 +206,23 @@
 ### Vocabulary:
 1. **whodunit**: a story or play about a murder in which the identity of the murderer is not revealed until the end.
 
+---
+27-Dec-2024
+## 08: Hyperbaton
+
+- Hyperbaton is when you put words in an odd order, which is very, very diﬃcult to do in English.
+- Given that almost everything else in the English language is slapdash, happy-go-lucky, care-may-the- Devil, word order is surprisingly strict.
+- John Ronald Reuel Tolkien wrote his first story aged seven about a **‘green great dragon’**. He was corrected by his mother that he couldn’t have a **green great dragon**, and that it had to be a **"great green one"** instead. Tolkien was so disheartened that he never wrote another story for years.
+- Adjectives in English absolutely have to be in this order: opinion-size-age-shape-colour-origin-material-purpose Noun. So you can have a lovely little old rectangular green French silver whittling knife. But if you mess with that word order in the slightest it will be deemed incorrect.
+- Since size comes before colour, green great dragons can’t exist.
+- When you repeat a word with a diﬀerent vowel, the order is always I A O. So you have Bish Bash Bosh. Politicians may _flip-flop_, but they can never flop-flip.It’s _tit-for-tat_, never tat-for-tit. This is called **_ablaut reduplication_**, and if you do things any other way, they sound very odd indeed. Similar examples exist like: _ding-dong_ (not dong ding) and _hip-hop_ (not hop-hip)
+- Any phrasal verb in the imperative has to end with a preposition. Otherwise, you’d shout ‘Out look! Down get! On we are being fired!’ Referees would say ‘On play’. Oﬀ would take planes. And nobody would be allowed to _sleep in_.
+- Hyperbaton is a slap in the face to any English speaker. n 1642 a chap called Richard Lovelace was stuck in prison, pining for his girlfriend. He wrote her a poem about how he wasn’t really in prison, and proved it with metaphor. The last verse began:\
+ _**Stone walls do not a prison make,\
+  Nor iron bars a cage …**_\
+  Which is a hyperbaton because "make" should come between not and a. Now it is quoted so much that it has become part of the language. And not just that exact line, any variant can be used: _adjective noun does not a noun make._
+- _Uneasy lies the head that wears the crown_ is one hell of a lot more memorable than The head that wears the crown lies uneasily.
+
+### Vocabulary:
+1. **hogwash**: nonsense
+2. **slapdash**: done too hurriedly and carelessly. (ex: he gave a slapdash performance) 
