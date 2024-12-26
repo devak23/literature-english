@@ -18,7 +18,7 @@
 - Argon, the other major gas in air, wasn’t known about at the time, because it’s an inert gas and doesn’t produce anything at all. That’s why it’s called argon. Argon is Greek for `lazy`.
 - A group of things that reproduce is a `genus` and if you’re talking about a whole `genus` then you’re speaking in `general` and if you’re in `general` command of the troops you’re a `general` and a `general` can order his troops to commit `genocide`, which, etymologically, would be suicide. Now a general won’t commit genocide himself; he’ll probably assign the job to his privates, and privates is a euphemism for gonads, which comes from exactly the same root.
 
-### vocabulary:
+### Vocabulary:
 1. **munificent**: great generosity
 2. **magnanimous**: generous or forgiving, especially towards a rival or less powerful person
 3. **idiopathic**: arising spontaneously
@@ -51,7 +51,7 @@
 - If you look at the top right-hand corner of your computer keyboard, you will see two little codpieces []
 
 
-### vocabulary
+### Vocabulary
 1. **gargantuan**: enormous
 
 ---
@@ -68,7 +68,7 @@
 - So pants and panties come from Saint Pantaleon and your undies are all-compassionate and your small-clothes are martyred.
 
 
-### vocabulary
+### Vocabulary
 1. **breeches**: short trousers fastened just below the knee, now chiefly worn for riding or as part of ceremonial dress.
 2. **megalomartyrs**: the great martyrs
 
@@ -91,3 +91,40 @@
 - Back in 27 BC the Roman general Marcus Agrippa built a big temple on the edge of Rome and, in a fit of indecision, decided to dedicate it to all the gods at once. Six hundred years later the building was still standing and the Pope decided to turn it into a Christian church dedicated to St Mary and the Martyrs. Fourteen hundred years after that it’s still standing and still has its original roof. Technically it’s now called the Church of Saint Mary, but the tourists still call it the Pantheon, or All the Gods.
 - The exact opposite of the Pantheon is Pandemonium, the place of all the demons. 
 - These days pandemonium is just a word we use to mean that everything is a bit chaotic, but originally it was a particular palace in Hell. (one of the hundreds of English words invented by John Milton).
+
+---
+27-Dec-2024
+## 07: Miltonic Meanders
+- _Pardise Lost_ is about Adam and Eve which don't appear till the second chapter. It is about the fall of the Satan from heaven and fall of the humanity from the Garden of Eden into the land of Nod and is generally speaking downhill poem.
+- In Milton’s poem, when Satan is thrown out of Heaven and into Hell, the first thing he decides to do is to get a roof over his head. So he summons all the other fallen angels and gets them to build a huge and hideous palace. And just as the Pantheon is the temple of All the Gods, so Satan decides to name his new pied-à-terre _All the Demons_ OR _Pandemonium_, and that’s how the word was invented.
+- impassive, obtrusive, jubilant, loquacious, unconvincing, Satanic, persona, fragrance, beleaguered, sensuous, undesirable, disregard, damp, criticise, irresponsible, lovelorn, exhilarating, sectarian, unaccountable, incidental and cooking are all Milton's words.
+- When it came to inventive wording, Milton actually invented the word _wording_.
+- Awe-struck, terrific, stunning is again Milton
+- And, because he was a Puritan, he invented words for all the fun things of which he disapproved like: debauchery, depravity, extravagance, enjoyable
+- One man’s abomination is another’s good idea. This is the law of unintended consequences. _Unintended_ was Milton again.
+- Etymologicon the title of this book is again Milton's invention
+- Whether you’re _all ears_ or obliviously _tripping the light fantastic_, you’re still quoting Milton.
+- When a tennis player has an _advantage_, that’s Milton’s too, or at least he invented advantage in its sporting sense. When _all Hell breaks
+  loose_, that’s Paradise Lost, because when Satan escapes from Hell a curious angel asks him:\
+  **_Wherefore with thee\
+  Came not all Hell broke loose?_**\
+  which is again Milton's creation
+- Indeed, if there were any justice in pop music John Milton would be raking in the royalties from Jeff Beck’s ‘Hi Ho Silver Lining’, because Milton invented silver linings:\
+ **_Was I deceived or did a sable cloud\
+  Turn forth her silver lining on the night?_**
+
+
+### Idioms, Phrases and Proverbs:
+1. **tripping the light fantastic**: to perform a series of usually rhythmic bodily movements to music, dance (in particular ballroom dancing)
+
+### Vocabulary
+1. **pomavorous**: apple eating 
+2. **pied-à-terre**: a small flat, house, or room kept for occasional use. 
+3. **pièce de résistance**: The most important or remarkable feature (creatively speaking) 
+4. **impassive**: not feeling or showing emotion.
+5. **jubilant**: feeling or expressing great happiness and triumph.
+6. **loquacious**: tending to talk a great deal; talkative.
+7. **beleaguered**: in a very difficult situation.
+8. **lovelorn**: unhappy because of unrequited love. unrequited means (of a feeling, especially love) not returned. 
+9. **debauchery**: excessive indulgence in sex, alcohol, or drugs.
+10. **depravity**: moral corruption; wickedness. 
