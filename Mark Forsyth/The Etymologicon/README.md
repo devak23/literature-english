@@ -133,3 +133,20 @@
 8. **lovelorn**: unhappy because of unrequited love. unrequited means (of a feeling, especially love) not returned. 
 9. **debauchery**: excessive indulgence in sex, alcohol, or drugs.
 10. **depravity**: moral corruption; wickedness. 
+
+---
+28-Dec-2024
+
+## 08: Bloody Typical Semantic Shifts
+- The word _dream_ comes from the Anglo-Saxon for _happiness_.
+- _Five minutes usually means never_.
+- _Soon_ was the Anglo-Saxon word for _now_.
+- _Naughty_ used to be a much more serious word than it is now, but it has been overused and lost its power.
+- If you were _naughty_ it used to mean that you were a _**no-human**_. It comes from exactly the same root as nought or nothing. Now it just means that you’re mischievous.
+- The most damning word is _probably_. Two thousand years ago the Romans had the word _probabilis_. If something was probabilis then it could be proved by experiment, because the two words come from the same root: _probare_. But probabilis got overused. Roman lawyers would claim that their case was probabilis, when it wasn’t. Roman astrologers would say that their predictions were probabilis when they weren’t. So by the time poor probably first turned up in English in 1387 it was already a poor, exhausted word whose best days were behind it, and only meant likely.
+
+### Vocabulary
+1. **gouged**: make (a groove, hole, or indentation) with or as with a sharp tool or blade.
+
+---
+29-Dec-2024
