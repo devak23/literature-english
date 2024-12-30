@@ -229,3 +229,32 @@
 1. **hogwash**: nonsense
 2. **slapdash**: done too hurriedly and carelessly. (ex: he gave a slapdash performance)
 3. **perspicuous**: clearly expressed and easily understood; lucid.
+
+---
+30-Dec-2024
+## 09: Anadiplosis
+
+- In Star wars, Episode 1: The Phantom Menace, Yoda announces "fear leads to anger, anger leads to hatred, hatred leads to suffering". This is called anadiplosis.
+- A previous spiritual teacher: St Paul quoted:\
+  _**We glory in tribulations also, knowing that tribulation worketh patience,\
+  and patience, experience, and experience, hope, and hope maketh man not\
+  ashamed**_.
+- A semi-fictional American character called Jesse Jackson who observed that:\
+  _**Suffering breeds character; character breeds faith; in the end faith will not
+  disappoint**_.
+- There’s a logical fallacy called the quaternio terminorum, or fallacy of the four terms, that goes something like this:\
+  _**A ham sandwich is better than nothing. \
+  Nothing is better than eternal happiness. \
+  So eternal happiness is beaten by a ham sandwich**_.
+- The trick there is that the specific meaning of nothing has been changed from ‘lack of food’ to ‘impossibility’.
+- Of course, anadiplosis doesn’t have to be used for logic. It can simply add a harmony, in the same way that a repeated musical phrase binds two sections together.
+- Maximus Decimus Meridius Russellus Crowus in the film Gladiator:\
+  _**The general who became a slave. The slave who became a gladiator. The gladiator who defied an emperor. Striking story**_.
+- If you say it like this: _The general who became a slave who became a gladiator who defied an emperor_ would sound like a rather incoherent nursery rhyme.
+- However, this is an example of periodic sentence:
+  _If the soup had been as warm as the wine, and the wine as old as the fish,\
+  and the fish as young as the maid, and the maid as willing as the hostess, it\
+  would have been a very good meal._
+
+### Vocabulary:
+1. **gravitas**: seriousness and importance of manner
