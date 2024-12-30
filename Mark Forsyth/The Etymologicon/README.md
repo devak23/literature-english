@@ -149,4 +149,13 @@
 1. **gouged**: make (a groove, hole, or indentation) with or as with a sharp tool or blade.
 
 ---
-29-Dec-2024
+30-Dec-2024
+
+## 09: The Proof of the Pudding
+
+- Both _probable_ and _prove_ come from a single Latin root: `probare`. But while probable has, through overuse, come to mean only likely, prove has prospered and its meaning has grown stronger than it ever used to be.
+- Why would an _exception prove the rule_? why do you have a _proofreader_? Why would you require _proof of a pudding_? What happens on a _proving ground_ that is so very definitive?
+- `probare` didn’t exactly mean prove in our modern English sense, but it meant something very close. What the Romans did to their theories was to _test_ them. Sometimes a theory was found to work and at other times it didn't. Same thing happens to a book when it’s sent to the proofreader.
+- The exception is what puts a rule to the test. That test may destroy it, or the rule may be tested and survive, but either way the theory has been proved. That’s why an exception really does prove a rule.
+- Similarly, when a new weapon is taken to the proving ground where a weapon can be tested to make sure that it’s as deadly as had been hoped.
+- All of which should explain why the test of a good dessert and the proof of a pudding is in the eating. It’s the old sense of prove.
