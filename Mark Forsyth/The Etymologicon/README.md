@@ -159,3 +159,24 @@
 - The exception is what puts a rule to the test. That test may destroy it, or the rule may be tested and survive, but either way the theory has been proved. That’s why an exception really does prove a rule.
 - Similarly, when a new weapon is taken to the proving ground where a weapon can be tested to make sure that it’s as deadly as had been hoped.
 - All of which should explain why the test of a good dessert and the proof of a pudding is in the eating. It’s the old sense of prove.
+
+
+---
+31-Dec-2024
+
+## 10: Sausage Poison in Your Face
+
+- The Latin word for sausage was `botulus`, from which English gets two words: `botuliform`, which means sausage-shaped and botulism.
+- In nineteenth century America, the belief that sausages were usually made out of dog meat was so widespread that they started to be called _hotdogs_. Sausages are actually stuffed with pork.
+- Early nineteenth-century German called _Justinus Kerner_ identified a new disease that killed some of his patients. It was a horrible malady that slowly paralysed every part of the body until the victim’s heart stopped.
+- Kerner realised that all his dead patients had been eating cheap meat in sausages, so he decided to call the ailment `botulism`, or _sausage disease_. 
+- He also correctly deduced that bad sausages must contain a poison of some sort, which he called `botulinum toxin`.
+- In 1895 there was a funeral in Belgium. Ham was served to the guests at the wake and three of them dropped down dead. The Professor of Bacteria studied the homicidal ham under a microscope and finally identified the culprit, little bacteria that were, appropriately, shaped like sausages and are now called `Clostridium botulinum`. 
+- This was an advance because it meant that Kerner’s botulinum toxin could be manufactured. why anybody would want to manufacture botulinum toxin. In fact, one microgram of it will cause near-instantaneous death by paralysis. But paralysis might be required: for example if, you’re afflicted by facial spasms, then a doctor can inject a tinsy-winsy little dose of botulinum toxin into the affected area. A little, temporary paralysis kicks in, and the spasms are cured. That was the original reason for manufacturing botulinum toxin.
+- But very quickly people discovered that if you paralysed somebody’s face it made them look a little bit younger. It also made them look very odd and incapable of expressing emotion.
+- It could extend a Hollywood actress’s career by years. Old ladies could look middle-aged again! 
+- Injections of Kerner’s sausage poison were like plastic surgery but less painful and less permanent.
+- That botulinum toxin came to be known as _**Botox**_
+
+### Vocabulary
+1. **malady**: a disease or ailment.
