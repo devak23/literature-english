@@ -205,3 +205,17 @@
 2. **repealed**: revoke or annul (a law or act of parliament).
 3. **discerning**: having or showing good judgement.
 4. **decree**: an official order that has the force of law.
+
+---
+03-Jan-2025
+
+## 12: Black and White
+
+- There was an old Germanic word for burnt, which was `black`
+- The confusion arose because the old Germanics couldn’t decide between black and white as to which colour burning was. Some said burning things were bright and shiny, other said they were turned black.
+- The confusion was never resolved and the English were left with black meaning either _pale or dark_ but slowly settled on one usage.
+- The French imported the _black_ and added a 'N' making it blank (blanc) as opposites. This is one theory
+- Other theory is that - German word black which meant bare, void and empty. What do you have if you don’t have any colours?
+- If you close your eyes you see nothing, which is black, but a blank piece of paper is, usually, white. Under this theory, blankness is the original sense and the two colours – black and white.
+- _bleach_ comes from the same root and can mean _to make pale_, or any substance used for making things black. Moreover, _bleak_ is probably just a variant of bleach and once meant white.
+- Down means up. Actually it meant hill. In England there’s a range of hills called the Sussex Downs. So if an Old Englishman fell off the top of a hill he would fall _off-down_. Later on the _off_ was dropped off and people started saying "going down"
