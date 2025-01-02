@@ -180,3 +180,28 @@
 
 ### Vocabulary
 1. **malady**: a disease or ailment.
+
+---
+02-Jan-2025
+
+## 11: Bows and Arrows and Cats
+- A `toxophilite` is somebody who loves archery
+- Toxin comes from `toxon`, the Greek word for bow, and toxic comes from `toxikos`, the Greek word for pertaining to archery. This is because in ancient warfare it was common practice to dip your arrowheads in poison. The two ideas were so connected in the Greek mind that toxon became toxin.
+- In 1363 Edward III passed a law that required all men over the age of fourteen and under the age of 60 to practise the sport once a week. Edward III’s law has never actually been repealed.
+- From archery came the word _upshot_. The _upshot_ is the shot that decides who has won an archery contest.
+- Hitting a stationary target was just too easy for the Tudors. So the best archers used to test themselves by putting a cat in a bag and hanging the bag from the branch of a tree. The cat would wriggle about and the sack would swing, and this provided the discerning archer with a challenge
+- In medieval markets, piglets were sold in sacks, so that the farmer could carry them home more easily. This was _a pig in a poke_.
+- A standard con at the time involved switching a valuable piglet for a valueless cat or dog. You were then being sold a pup, or, if you discovered the trick, you would let the cat out of the bag.
+- The blank in "point blank" is the French `blanc`, which means white. The white spot bang in the middle of an archery target was called the white or blank.
+- The funny thing about archery is that you don’t usually aim at the target due to gravity. So you point the arrow somewhere above the blank, and hope that this cancels effects of gravity. That’s why aim high is another archer’s term; it doesn’t mean that you’ll end up high. You aim high and hit on the level.
+- However, there’s one situation in which this rule does not apply: if you are very, very, very, very close to the target. In this case, you’re at _point blank_ range.
+
+### Idioms, Phrases and Proverbs:
+1. **enough room to swing a cat**: the place you are talking about is very small or crowded
+2. **letting the cat out of the bag**: reveal a secret carelessly or by mistake.
+
+### Vocabulary
+1. **ubiquitous**: present, appearing, or found everywhere.
+2. **repealed**: revoke or annul (a law or act of parliament).
+3. **discerning**: having or showing good judgement.
+4. **decree**: an official order that has the force of law.
