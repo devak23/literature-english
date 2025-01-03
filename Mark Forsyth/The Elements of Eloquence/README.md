@@ -248,7 +248,7 @@
   So eternal happiness is beaten by a ham sandwich**_.
 - The trick there is that the specific meaning of nothing has been changed from ‘lack of food’ to ‘impossibility’.
 - Of course, anadiplosis doesn’t have to be used for logic. It can simply add a harmony, in the same way that a repeated musical phrase binds two sections together.
-- Maximus Decimus Meridius Russellus Crowus in the film Gladiator:\
+- Maximus Decimus Meridius Russell Crow in the film Gladiator:\
   _**The general who became a slave. The slave who became a gladiator. The gladiator who defied an emperor. Striking story**_.
 - If you say it like this: _The general who became a slave who became a gladiator who defied an emperor_ would sound like a rather incoherent nursery rhyme.
 - However, this is an example of periodic sentence:
@@ -258,3 +258,19 @@
 
 ### Vocabulary:
 1. **gravitas**: seriousness and importance of manner
+
+---
+3-Jan-2025
+## 10: Periodic Sentences
+
+- The little dot at the end of a sentence is either called a full stop or, if you’re of the American persuasion, a period
+- The period is one of the most complicated and convoluted concepts of classical rhetoric. Nobody in the ancient world could quite decide what it meant, but they were united in the belief that it was terribly important.
+- The essence of a periodic sentence is that, until you’ve got to the end, until you’ve found that clause or verb that completes the syntax, until you’ve finally got to the period, you can’t stop.
+- As long as you dont blurt out your main verb too early or as you begin clause after clause with when or if or though or while or as long as you can keep going through fourteen apposite clauses and as long as you dont mind being a tad artificial, periodic sentences are a doddle
+- In the song 'Every Breath You Take' Sting maintained the self-control to save his main verb for
+  the end of the verse:\
+  _**Every breath you take,\
+  Every move you make,\
+  Every bond you break,\
+  Every step you take,\
+  I’ll be watching you.**_
