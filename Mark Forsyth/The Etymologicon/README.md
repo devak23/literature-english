@@ -219,3 +219,20 @@
 - If you close your eyes you see nothing, which is black, but a blank piece of paper is, usually, white. Under this theory, blankness is the original sense and the two colours – black and white.
 - _bleach_ comes from the same root and can mean _to make pale_, or any substance used for making things black. Moreover, _bleak_ is probably just a variant of bleach and once meant white.
 - Down means up. Actually it meant hill. In England there’s a range of hills called the Sussex Downs. So if an Old Englishman fell off the top of a hill he would fall _off-down_. Later on the _off_ was dropped off and people started saying "going down"
+
+---
+04-Jan-2025
+
+## 13: Hat Cheque Point Charlie
+
+- Persia was ruled by `shahs`
+- Crippled or dead shahs came to be known as "shah mat"
+- Shah went into Arabic as "Shah" as well and into Latin as `scaccus` and in French as `eschec` and into English as `chess`
+- `Shah Mat` (when a king is crippled a chess player calls "checkmate")
+- When Henry II wanted to do his accounts he did them on a board that looked like a chessboard and since Henry II spoke French, it was called the `Escheker` – that’s why the finances of the British government are still controlled by the Chancellor of the Exchequer (The S changed to X through confusion and foolishness.)
+- In the game of chess when your opponent puts you in check, your options become very limited. You have to get out of check in one move or its checkmate
+- From this you get the idea of somebody or something being held in check. Checking somebody stops them doing what they want, and that’s why you can still body-check people, and why government is held in check by checks and balances.
+- Check or cheque began to mean somebody who stopped things going wrong. And from that you get the sense of a check as something that stops dishonesty.
+- Bank checks (or cheques) were originally introduced as a replacement for promissory notes and got their name because they checked fraud. They started out being spelled with a –ck on both sides of the Atlantic. But British people, perhaps under the influence of the Chancellor of the Exchequer, decided to start calling them cheques
+- And from there you get check off (1839) and check up (1889). People would fly around and navigate by distinctive landmarks called checkpoints.
+- Shops got checkouts and roadblocks became checkpoints and people went to doctors for checkups and guests checked out of hotels and checked in at check-ins
