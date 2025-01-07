@@ -274,3 +274,53 @@
   Every bond you break,\
   Every step you take,\
   I’ll be watching you.**_
+
+---
+7-Jan-2025
+## 11: Hypotaxis and Parataxis
+
+- Parataxis is good, plain English. It’s one sentence after another. It’s direct. ex:\
+  You don’t want.\
+  to buy my cattle. They’re good cattle. You don’t know cattle.\ 
+  I’m going to have a drink. Then I’m going to break your jaw.\
+  I’m a paratactic farmer. My cattle are the best in England.
+- Parataxis is the natural way of speaking English. 
+- English is a basically uninflected language. Everything depends on the word order. It’s all subject-verb-object. ex: The man kicked the dog. The cat sat on the mat.
+- In Latin and German and in many different languages words can be moved around and you still understand the sentence because of the endings. ex:\
+  _**Nauta amat puellam**_ and _**Puellam nauta amat**_ both mean ‘The sailor loves the girl’.
+- That doesn't happen in English. Its paratactic. They don’t have to be sentences, they could be divided by commas, they could be divided by semi-colons; But you can get round the punctuation problem by using conjunctions and just keep your sentence going and going forever.
+- Using lots of conjunctions is called `polysyndeton`. No conjunctions is called `asyndeton`. ex:\
+  _And Jesus took bread, and blessed it, and brake it, and gave it to his disciples
+  saying ‘Take, eat, this is my body_
+- There’s nothing wrong with parataxis. It’s good, simple, clean, plain-living, English. Wham. Bam. Thank you, ma’am.
+- Alternatively, should you choose to employ use of subordinate clause upon subordinate clause, which itself may be subordinated to those clauses that have gone before or after, to construct a sentence of such labyrinthine grammatical complexity that you unravel a ball of grammatical yarn which leaves the audience in amaze trying to look for a fullstop. - That’s hypotaxis.
+- Thomas Browne gave to the English language the glory of the preposterously long sentence: sentences that nobody in their right minds would ever say aloud, sentences that are intricate games, filled with fine flourishes and curious convolutions. Such sentences have a remarkable quality: civilisation.
+- Hypotaxis is unnatural in English; If someone was furious about a sycophantic lawyer they might say:
+  ‘Lawyers are only interested in money. Sure, lawyers pay you compliments. Compliments are free.’ But when Charles Dickens said exactly the same thing, he phrased it like this:\
+  _**It was a maxim with Mr Brass that the habit of paying compliments kept a\
+  man’s tongue oiled without any expense; and that, as that useful member\
+  ought never to grow rusty or creak in turning on its hinges in the case of a\
+  practitioner of the law, in whom it should be always glib and easy, he lost\
+  few opportunities of improving himself by the utterance of handsome\
+  speeches and eulogistic expressions.**_ 
+- Seventy-three words of hypotactic fun that somehow never seems rude, even though it definitely is
+- You can’t gush with hypotaxis. If I told you: ‘She’s beautiful and clever and rich. She’s got a lovely house. She’s always friendly. She has all the best things that a person can have. She’s 21. Nothing bad ever happens to her’, you’d think that I was afflicted with the most tedious variety of love. But Jane Austen wrote exactly the same thing as the first line of Emma:\
+  _**Emma Woodhouse, handsome, clever, and rich, with a comfortable home\
+  and happy disposition, seemed to unite some of the best blessings of\
+  existence; and had lived nearly twenty-one years in the world with very\
+  little to distress or vex her.**_
+- You can almost see Miss Austen winking at you over a cup of tea.
+- Absolutely anything sounds civilised and well-thought-out, provided that it’s expressed in the most syntactically complicated, hyper-hypotactic manner.
+- Even pornography had an air of considered calm to it, now lost for ever to the discerning pervert. Fanny Hill (1748) is generally thought the greatest mucky novel in English literature. but when such coarsely eternal activities are laced into a mad grammarian’s fantasy, the result is superb:\
+  _**Coming then into my chamber, and seeing me lie alone, with my face turned\
+  from the light towards the inside of the bed, he, without more ado, just\
+  slipped off his breeches, for the greater ease and enjoyment of the naked\
+  touch; and softly turning up my petticoats and shift behind, opened the\
+  prospect of the back avenue to the genial seat of pleasure; where, as I lay at\
+  my side length, inclining rather face downward, I appeared full fair, and\
+  liable to be entered. Laying himself gently down by me, he invested me\
+  behind, and giving me to feel the warmth of his body, as he applied his\
+  thighs and belly close to me, and the endeavours of that machine, whose\
+  touch has something so exquisitely singular in it, to make its way good into me**_.
+- If one attempts to rewrite that in the paratactic style, it loses all its charm will indeed be considered vulgar.
+- Hypotaxis was what made English prose so terribly, terribly civilised. It still works.
