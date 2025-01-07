@@ -236,3 +236,27 @@
 - Bank checks (or cheques) were originally introduced as a replacement for promissory notes and got their name because they checked fraud. They started out being spelled with a –ck on both sides of the Atlantic. But British people, perhaps under the influence of the Chancellor of the Exchequer, decided to start calling them cheques
 - And from there you get check off (1839) and check up (1889). People would fly around and navigate by distinctive landmarks called checkpoints.
 - Shops got checkouts and roadblocks became checkpoints and people went to doctors for checkups and guests checked out of hotels and checked in at check-ins
+
+---
+07-Jan-2025
+
+## 14: Sex and Bread
+
+- Freud said that everything was secretly sexual. But etymologists know that sex is secretly food.
+- Mating with somebody was originally just sharing your food, or meat, with them (meat meant food of any kind and not just flesh)
+- A companion is somebody with whom you share your bread (from the Latin `panis`).
+- The Old English word for bread was `hlaf`, from which we get loaf;
+- Before the birth of Jesus, there were some fellows living between the Black Sea and the Caspian. Whenever one of them died the others would bury him, or her, in a pit. They were therefore called the Kurgan Pit Burial culture or the Kurgans.
+- This was in the time before the invention of writing so we can only take an educated guess about their language which is called Proto-Indo-European, or PIE for short.
+- The Kurgans probably invented the chariot, and probably used it to invade their neighbours. The did attack but in a disorganized way.
+- Rather than all banding together and attacking in one direction, they split up and attacked hither and thither. Some of them ended up in northern India and some of them ended up in Persia. Some went to the cold, rainy lands around the Baltic, and some of them went to Greece and became Greek.
+- They also took with them their language – Proto-Indo-European – and spread it all over Europe and Asia.
+- Different groups developed different accents and these accents became so strong that their languages became mutually incomprehensible. After a few hundred years the Kurgans in northern India wouldn’t have been able to make out what their cousins in Italy were saying.
+- So the ancient Indians called their dads `pitar`, and the Greeks called their dads `pater`, and the Romans called them `pater`. Germans called them `fater`, and we call him father, because English is descended from Old German.
+- Similarly, the PIE word `seks` became German `sechs`, English `six`, Latin `sex`, Sanskrit `sas` and Greek `hex`; because the Greeks pronounced their Ss funny.
+- Proto-Indo-European word `neogw`, meant _unclothed_. German languages (of which English is one) `neogw` became _naked_. In the Latin languages `neogw` became _nude_. But a funny thing happened in Persia. 
+- The ancient Persians cooked their meat by burying it in hot ashes. However, they baked their bread uncovered in an oven. They still used the PIE word `neogw` (or uncovered), and therefore started calling their bread `nan`. Nan was taken into Hindi as `naan`, and if you go into an Indian restaurant today you can still buy a lovely, puffy sort of bread called naan, but now you know it’s etymologically naked.
+
+### Vocabulary
+1. **deplorable**: 
+2. **hither and thither**:
