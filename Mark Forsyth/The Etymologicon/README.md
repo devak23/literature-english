@@ -258,5 +258,7 @@
 - The ancient Persians cooked their meat by burying it in hot ashes. However, they baked their bread uncovered in an oven. They still used the PIE word `neogw` (or uncovered), and therefore started calling their bread `nan`. Nan was taken into Hindi as `naan`, and if you go into an Indian restaurant today you can still buy a lovely, puffy sort of bread called naan, but now you know it’s etymologically naked.
 
 ### Vocabulary
-1. **deplorable**: 
-2. **hither and thither**:
+1. **deplorable**: deserving strong condemnation; completely unacceptable.
+
+### Idioms, Phrases and Proverbs:
+1. **hither and thither**: is a phrase which means in various directions, especially in a disorganized way.
