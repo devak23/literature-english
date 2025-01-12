@@ -324,3 +324,20 @@
   touch has something so exquisitely singular in it, to make its way good into me**_.
 - If one attempts to rewrite that in the paratactic style, it loses all its charm will indeed be considered vulgar.
 - Hypotaxis was what made English prose so terribly, terribly civilised. It still works.
+
+---
+9-Jan-2025
+## 12: Diacope
+
+- My name is Bond, James Bond. The American Film Institute rates it as the 22nd greatest line in all cinema
+- The content of the line is absolutely boring as the man introduces himself with a very uncharming name as explained by Ian Fleming.
+- The only possible explanation for the line’s popularity is the way it is phrased. The line wouldn't have been remembered if he had said ‘My name is Mr James Bond’, OR ‘Bond, first name James’, OR ‘Bond, but you can call me James’.
+- Diacope (pronounced die-ACK-oh-pee) is a verbal sandwich: a word or phrase is repeated after a brief interruption.
+- In The Wizard of Oz, the Wicked Witch of the West cries: ‘Fly, my pretties, fly!’
+- It doesn’t matter whether you intended to deploy diacope. It’s rather like the story of James Whistler and Oscar Wilde. Whistler had just made a particularly witty witticism and Wilde ruefully commented, ‘I wish I’d said that.’ Whistler, who liked to imply that all Wilde’s best lines were stolen from him, replied, ‘You will, Oscar. You will.’
+- Diacope comes in a number of forms. The simplest is the vocative diacope: Live, baby, live. Yeah, baby, yeah. I am dying, Egypt, dying. Game over, man, game over. Zed’s dead, baby, Zed’s dead.
+- The effect is to put a bit of emphasis, a certain finality, on the second word.
+
+### Vocabulary:
+1. **ruefully**: in a way that expresses sorrow or regret, especially in a wry or humorous manner.
+2. **rhadamanthine**: showing stern and inflexible judgement.
