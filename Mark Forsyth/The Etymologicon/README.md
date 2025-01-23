@@ -262,3 +262,19 @@
 
 ### Idioms, Phrases and Proverbs:
 1. **hither and thither**: is a phrase which means in various directions, especially in a disorganized way.
+
+
+---
+23-Jan-2025
+
+## 15: Concealed Farts
+
+
+
+### Vocabulary
+1. **obeisance**: a gesture expressing deferential respect, such as a bow or curtsy.
+2. **flatulence**: the expulsion of gas via the anal passage, inflated or pretentious speech or writing; pomposity.
+
+
+### Idioms, Phrases and Proverbs:
+1. **to peter out**: to gradually stop or disappear: 
