@@ -229,3 +229,115 @@
 1. **hogwash**: nonsense
 2. **slapdash**: done too hurriedly and carelessly. (ex: he gave a slapdash performance)
 3. **perspicuous**: clearly expressed and easily understood; lucid.
+
+---
+30-Dec-2024
+## 09: Anadiplosis
+
+- In Star wars, Episode 1: The Phantom Menace, Yoda announces "fear leads to anger, anger leads to hatred, hatred leads to suffering". This is called anadiplosis.
+- A previous spiritual teacher: St Paul quoted:\
+  _**We glory in tribulations also, knowing that tribulation worketh patience,\
+  and patience, experience, and experience, hope, and hope maketh man not\
+  ashamed**_.
+- A semi-fictional American character called Jesse Jackson who observed that:\
+  _**Suffering breeds character; character breeds faith; in the end faith will not
+  disappoint**_.
+- There’s a logical fallacy called the quaternio terminorum, or fallacy of the four terms, that goes something like this:\
+  _**A ham sandwich is better than nothing. \
+  Nothing is better than eternal happiness. \
+  So eternal happiness is beaten by a ham sandwich**_.
+- The trick there is that the specific meaning of nothing has been changed from ‘lack of food’ to ‘impossibility’.
+- Of course, anadiplosis doesn’t have to be used for logic. It can simply add a harmony, in the same way that a repeated musical phrase binds two sections together.
+- Maximus Decimus Meridius Russell Crow in the film Gladiator:\
+  _**The general who became a slave. The slave who became a gladiator. The gladiator who defied an emperor. Striking story**_.
+- If you say it like this: _The general who became a slave who became a gladiator who defied an emperor_ would sound like a rather incoherent nursery rhyme.
+- However, this is an example of periodic sentence:
+  _If the soup had been as warm as the wine, and the wine as old as the fish,\
+  and the fish as young as the maid, and the maid as willing as the hostess, it\
+  would have been a very good meal._
+
+### Vocabulary:
+1. **gravitas**: seriousness and importance of manner
+
+---
+3-Jan-2025
+## 10: Periodic Sentences
+
+- The little dot at the end of a sentence is either called a full stop or, if you’re of the American persuasion, a period
+- The period is one of the most complicated and convoluted concepts of classical rhetoric. Nobody in the ancient world could quite decide what it meant, but they were united in the belief that it was terribly important.
+- The essence of a periodic sentence is that, until you’ve got to the end, until you’ve found that clause or verb that completes the syntax, until you’ve finally got to the period, you can’t stop.
+- As long as you dont blurt out your main verb too early or as you begin clause after clause with when or if or though or while or as long as you can keep going through fourteen apposite clauses and as long as you dont mind being a tad artificial, periodic sentences are a doddle
+- In the song 'Every Breath You Take' Sting maintained the self-control to save his main verb for
+  the end of the verse:\
+  _**Every breath you take,\
+  Every move you make,\
+  Every bond you break,\
+  Every step you take,\
+  I’ll be watching you.**_
+
+---
+7-Jan-2025
+## 11: Hypotaxis and Parataxis
+
+- Parataxis is good, plain English. It’s one sentence after another. It’s direct. ex:\
+  You don’t want.\
+  to buy my cattle. They’re good cattle. You don’t know cattle.\ 
+  I’m going to have a drink. Then I’m going to break your jaw.\
+  I’m a paratactic farmer. My cattle are the best in England.
+- Parataxis is the natural way of speaking English. 
+- English is a basically uninflected language. Everything depends on the word order. It’s all subject-verb-object. ex: The man kicked the dog. The cat sat on the mat.
+- In Latin and German and in many different languages words can be moved around and you still understand the sentence because of the endings. ex:\
+  _**Nauta amat puellam**_ and _**Puellam nauta amat**_ both mean ‘The sailor loves the girl’.
+- That doesn't happen in English. Its paratactic. They don’t have to be sentences, they could be divided by commas, they could be divided by semi-colons; But you can get round the punctuation problem by using conjunctions and just keep your sentence going and going forever.
+- Using lots of conjunctions is called `polysyndeton`. No conjunctions is called `asyndeton`. ex:\
+  _And Jesus took bread, and blessed it, and brake it, and gave it to his disciples
+  saying ‘Take, eat, this is my body_
+- There’s nothing wrong with parataxis. It’s good, simple, clean, plain-living, English. Wham. Bam. Thank you, ma’am.
+- Alternatively, should you choose to employ use of subordinate clause upon subordinate clause, which itself may be subordinated to those clauses that have gone before or after, to construct a sentence of such labyrinthine grammatical complexity that you unravel a ball of grammatical yarn which leaves the audience in amaze trying to look for a fullstop. - That’s hypotaxis.
+- Thomas Browne gave to the English language the glory of the preposterously long sentence: sentences that nobody in their right minds would ever say aloud, sentences that are intricate games, filled with fine flourishes and curious convolutions. Such sentences have a remarkable quality: civilisation.
+- Hypotaxis is unnatural in English; If someone was furious about a sycophantic lawyer they might say:
+  ‘Lawyers are only interested in money. Sure, lawyers pay you compliments. Compliments are free.’ But when Charles Dickens said exactly the same thing, he phrased it like this:\
+  _**It was a maxim with Mr Brass that the habit of paying compliments kept a\
+  man’s tongue oiled without any expense; and that, as that useful member\
+  ought never to grow rusty or creak in turning on its hinges in the case of a\
+  practitioner of the law, in whom it should be always glib and easy, he lost\
+  few opportunities of improving himself by the utterance of handsome\
+  speeches and eulogistic expressions.**_ 
+- Seventy-three words of hypotactic fun that somehow never seems rude, even though it definitely is
+- You can’t gush with hypotaxis. If I told you: ‘She’s beautiful and clever and rich. She’s got a lovely house. She’s always friendly. She has all the best things that a person can have. She’s 21. Nothing bad ever happens to her’, you’d think that I was afflicted with the most tedious variety of love. But Jane Austen wrote exactly the same thing as the first line of Emma:\
+  _**Emma Woodhouse, handsome, clever, and rich, with a comfortable home\
+  and happy disposition, seemed to unite some of the best blessings of\
+  existence; and had lived nearly twenty-one years in the world with very\
+  little to distress or vex her.**_
+- You can almost see Miss Austen winking at you over a cup of tea.
+- Absolutely anything sounds civilised and well-thought-out, provided that it’s expressed in the most syntactically complicated, hyper-hypotactic manner.
+- Even pornography had an air of considered calm to it, now lost for ever to the discerning pervert. Fanny Hill (1748) is generally thought the greatest mucky novel in English literature. but when such coarsely eternal activities are laced into a mad grammarian’s fantasy, the result is superb:\
+  _**Coming then into my chamber, and seeing me lie alone, with my face turned\
+  from the light towards the inside of the bed, he, without more ado, just\
+  slipped off his breeches, for the greater ease and enjoyment of the naked\
+  touch; and softly turning up my petticoats and shift behind, opened the\
+  prospect of the back avenue to the genial seat of pleasure; where, as I lay at\
+  my side length, inclining rather face downward, I appeared full fair, and\
+  liable to be entered. Laying himself gently down by me, he invested me\
+  behind, and giving me to feel the warmth of his body, as he applied his\
+  thighs and belly close to me, and the endeavours of that machine, whose\
+  touch has something so exquisitely singular in it, to make its way good into me**_.
+- If one attempts to rewrite that in the paratactic style, it loses all its charm will indeed be considered vulgar.
+- Hypotaxis was what made English prose so terribly, terribly civilised. It still works.
+
+---
+9-Jan-2025
+## 12: Diacope
+
+- My name is Bond, James Bond. The American Film Institute rates it as the 22nd greatest line in all cinema
+- The content of the line is absolutely boring as the man introduces himself with a very uncharming name as explained by Ian Fleming.
+- The only possible explanation for the line’s popularity is the way it is phrased. The line wouldn't have been remembered if he had said ‘My name is Mr James Bond’, OR ‘Bond, first name James’, OR ‘Bond, but you can call me James’.
+- Diacope (pronounced die-ACK-oh-pee) is a verbal sandwich: a word or phrase is repeated after a brief interruption.
+- In The Wizard of Oz, the Wicked Witch of the West cries: ‘Fly, my pretties, fly!’
+- It doesn’t matter whether you intended to deploy diacope. It’s rather like the story of James Whistler and Oscar Wilde. Whistler had just made a particularly witty witticism and Wilde ruefully commented, ‘I wish I’d said that.’ Whistler, who liked to imply that all Wilde’s best lines were stolen from him, replied, ‘You will, Oscar. You will.’
+- Diacope comes in a number of forms. The simplest is the vocative diacope: Live, baby, live. Yeah, baby, yeah. I am dying, Egypt, dying. Game over, man, game over. Zed’s dead, baby, Zed’s dead.
+- The effect is to put a bit of emphasis, a certain finality, on the second word.
+
+### Vocabulary:
+1. **ruefully**: in a way that expresses sorrow or regret, especially in a wry or humorous manner.
+2. **rhadamanthine**: showing stern and inflexible judgement.

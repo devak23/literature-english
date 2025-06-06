@@ -149,4 +149,132 @@
 1. **gouged**: make (a groove, hole, or indentation) with or as with a sharp tool or blade.
 
 ---
-29-Dec-2024
+30-Dec-2024
+
+## 09: The Proof of the Pudding
+
+- Both _probable_ and _prove_ come from a single Latin root: `probare`. But while probable has, through overuse, come to mean only likely, prove has prospered and its meaning has grown stronger than it ever used to be.
+- Why would an _exception prove the rule_? why do you have a _proofreader_? Why would you require _proof of a pudding_? What happens on a _proving ground_ that is so very definitive?
+- `probare` didn’t exactly mean prove in our modern English sense, but it meant something very close. What the Romans did to their theories was to _test_ them. Sometimes a theory was found to work and at other times it didn't. Same thing happens to a book when it’s sent to the proofreader.
+- The exception is what puts a rule to the test. That test may destroy it, or the rule may be tested and survive, but either way the theory has been proved. That’s why an exception really does prove a rule.
+- Similarly, when a new weapon is taken to the proving ground where a weapon can be tested to make sure that it’s as deadly as had been hoped.
+- All of which should explain why the test of a good dessert and the proof of a pudding is in the eating. It’s the old sense of prove.
+
+
+---
+31-Dec-2024
+
+## 10: Sausage Poison in Your Face
+
+- The Latin word for sausage was `botulus`, from which English gets two words: `botuliform`, which means sausage-shaped and botulism.
+- In nineteenth century America, the belief that sausages were usually made out of dog meat was so widespread that they started to be called _hotdogs_. Sausages are actually stuffed with pork.
+- Early nineteenth-century German called _Justinus Kerner_ identified a new disease that killed some of his patients. It was a horrible malady that slowly paralysed every part of the body until the victim’s heart stopped.
+- Kerner realised that all his dead patients had been eating cheap meat in sausages, so he decided to call the ailment `botulism`, or _sausage disease_. 
+- He also correctly deduced that bad sausages must contain a poison of some sort, which he called `botulinum toxin`.
+- In 1895 there was a funeral in Belgium. Ham was served to the guests at the wake and three of them dropped down dead. The Professor of Bacteria studied the homicidal ham under a microscope and finally identified the culprit, little bacteria that were, appropriately, shaped like sausages and are now called `Clostridium botulinum`. 
+- This was an advance because it meant that Kerner’s botulinum toxin could be manufactured. why anybody would want to manufacture botulinum toxin. In fact, one microgram of it will cause near-instantaneous death by paralysis. But paralysis might be required: for example if, you’re afflicted by facial spasms, then a doctor can inject a tinsy-winsy little dose of botulinum toxin into the affected area. A little, temporary paralysis kicks in, and the spasms are cured. That was the original reason for manufacturing botulinum toxin.
+- But very quickly people discovered that if you paralysed somebody’s face it made them look a little bit younger. It also made them look very odd and incapable of expressing emotion.
+- It could extend a Hollywood actress’s career by years. Old ladies could look middle-aged again! 
+- Injections of Kerner’s sausage poison were like plastic surgery but less painful and less permanent.
+- That botulinum toxin came to be known as _**Botox**_
+
+### Vocabulary
+1. **malady**: a disease or ailment.
+
+---
+02-Jan-2025
+
+## 11: Bows and Arrows and Cats
+- A `toxophilite` is somebody who loves archery
+- Toxin comes from `toxon`, the Greek word for bow, and toxic comes from `toxikos`, the Greek word for pertaining to archery. This is because in ancient warfare it was common practice to dip your arrowheads in poison. The two ideas were so connected in the Greek mind that toxon became toxin.
+- In 1363 Edward III passed a law that required all men over the age of fourteen and under the age of 60 to practise the sport once a week. Edward III’s law has never actually been repealed.
+- From archery came the word _upshot_. The _upshot_ is the shot that decides who has won an archery contest.
+- Hitting a stationary target was just too easy for the Tudors. So the best archers used to test themselves by putting a cat in a bag and hanging the bag from the branch of a tree. The cat would wriggle about and the sack would swing, and this provided the discerning archer with a challenge
+- In medieval markets, piglets were sold in sacks, so that the farmer could carry them home more easily. This was _a pig in a poke_.
+- A standard con at the time involved switching a valuable piglet for a valueless cat or dog. You were then being sold a pup, or, if you discovered the trick, you would let the cat out of the bag.
+- The blank in "point blank" is the French `blanc`, which means white. The white spot bang in the middle of an archery target was called the white or blank.
+- The funny thing about archery is that you don’t usually aim at the target due to gravity. So you point the arrow somewhere above the blank, and hope that this cancels effects of gravity. That’s why aim high is another archer’s term; it doesn’t mean that you’ll end up high. You aim high and hit on the level.
+- However, there’s one situation in which this rule does not apply: if you are very, very, very, very close to the target. In this case, you’re at _point blank_ range.
+
+### Idioms, Phrases and Proverbs:
+1. **enough room to swing a cat**: the place you are talking about is very small or crowded
+2. **letting the cat out of the bag**: reveal a secret carelessly or by mistake.
+
+### Vocabulary
+1. **ubiquitous**: present, appearing, or found everywhere.
+2. **repealed**: revoke or annul (a law or act of parliament).
+3. **discerning**: having or showing good judgement.
+4. **decree**: an official order that has the force of law.
+
+---
+03-Jan-2025
+
+## 12: Black and White
+
+- There was an old Germanic word for burnt, which was `black`
+- The confusion arose because the old Germanics couldn’t decide between black and white as to which colour burning was. Some said burning things were bright and shiny, other said they were turned black.
+- The confusion was never resolved and the English were left with black meaning either _pale or dark_ but slowly settled on one usage.
+- The French imported the _black_ and added a 'N' making it blank (blanc) as opposites. This is one theory
+- Other theory is that - German word black which meant bare, void and empty. What do you have if you don’t have any colours?
+- If you close your eyes you see nothing, which is black, but a blank piece of paper is, usually, white. Under this theory, blankness is the original sense and the two colours – black and white.
+- _bleach_ comes from the same root and can mean _to make pale_, or any substance used for making things black. Moreover, _bleak_ is probably just a variant of bleach and once meant white.
+- Down means up. Actually it meant hill. In England there’s a range of hills called the Sussex Downs. So if an Old Englishman fell off the top of a hill he would fall _off-down_. Later on the _off_ was dropped off and people started saying "going down"
+
+---
+04-Jan-2025
+
+## 13: Hat Cheque Point Charlie
+
+- Persia was ruled by `shahs`
+- Crippled or dead shahs came to be known as "shah mat"
+- Shah went into Arabic as "Shah" as well and into Latin as `scaccus` and in French as `eschec` and into English as `chess`
+- `Shah Mat` (when a king is crippled a chess player calls "checkmate")
+- When Henry II wanted to do his accounts he did them on a board that looked like a chessboard and since Henry II spoke French, it was called the `Escheker` – that’s why the finances of the British government are still controlled by the Chancellor of the Exchequer (The S changed to X through confusion and foolishness.)
+- In the game of chess when your opponent puts you in check, your options become very limited. You have to get out of check in one move or its checkmate
+- From this you get the idea of somebody or something being held in check. Checking somebody stops them doing what they want, and that’s why you can still body-check people, and why government is held in check by checks and balances.
+- Check or cheque began to mean somebody who stopped things going wrong. And from that you get the sense of a check as something that stops dishonesty.
+- Bank checks (or cheques) were originally introduced as a replacement for promissory notes and got their name because they checked fraud. They started out being spelled with a –ck on both sides of the Atlantic. But British people, perhaps under the influence of the Chancellor of the Exchequer, decided to start calling them cheques
+- And from there you get check off (1839) and check up (1889). People would fly around and navigate by distinctive landmarks called checkpoints.
+- Shops got checkouts and roadblocks became checkpoints and people went to doctors for checkups and guests checked out of hotels and checked in at check-ins
+
+---
+07-Jan-2025
+
+## 14: Sex and Bread
+
+- Freud said that everything was secretly sexual. But etymologists know that sex is secretly food.
+- Mating with somebody was originally just sharing your food, or meat, with them (meat meant food of any kind and not just flesh)
+- A companion is somebody with whom you share your bread (from the Latin `panis`).
+- The Old English word for bread was `hlaf`, from which we get loaf;
+- Before the birth of Jesus, there were some fellows living between the Black Sea and the Caspian. Whenever one of them died the others would bury him, or her, in a pit. They were therefore called the Kurgan Pit Burial culture or the Kurgans.
+- This was in the time before the invention of writing so we can only take an educated guess about their language which is called Proto-Indo-European, or PIE for short.
+- The Kurgans probably invented the chariot, and probably used it to invade their neighbours. The did attack but in a disorganized way.
+- Rather than all banding together and attacking in one direction, they split up and attacked hither and thither. Some of them ended up in northern India and some of them ended up in Persia. Some went to the cold, rainy lands around the Baltic, and some of them went to Greece and became Greek.
+- They also took with them their language – Proto-Indo-European – and spread it all over Europe and Asia.
+- Different groups developed different accents and these accents became so strong that their languages became mutually incomprehensible. After a few hundred years the Kurgans in northern India wouldn’t have been able to make out what their cousins in Italy were saying.
+- So the ancient Indians called their dads `pitar`, and the Greeks called their dads `pater`, and the Romans called them `pater`. Germans called them `fater`, and we call him father, because English is descended from Old German.
+- Similarly, the PIE word `seks` became German `sechs`, English `six`, Latin `sex`, Sanskrit `sas` and Greek `hex`; because the Greeks pronounced their Ss funny.
+- Proto-Indo-European word `neogw`, meant _unclothed_. German languages (of which English is one) `neogw` became _naked_. In the Latin languages `neogw` became _nude_. But a funny thing happened in Persia. 
+- The ancient Persians cooked their meat by burying it in hot ashes. However, they baked their bread uncovered in an oven. They still used the PIE word `neogw` (or uncovered), and therefore started calling their bread `nan`. Nan was taken into Hindi as `naan`, and if you go into an Indian restaurant today you can still buy a lovely, puffy sort of bread called naan, but now you know it’s etymologically naked.
+
+### Vocabulary
+1. **deplorable**: deserving strong condemnation; completely unacceptable.
+
+### Idioms, Phrases and Proverbs:
+1. **hither and thither**: is a phrase which means in various directions, especially in a disorganized way.
+
+
+---
+23-Jan-2025
+
+## 15: Concealed Farts
+
+
+
+### Vocabulary
+1. **obeisance**: a gesture expressing deferential respect, such as a bow or curtsy.
+2. **flatulence**: the expulsion of gas via the anal passage, inflated or pretentious speech or writing; pomposity.
+
+
+### Idioms, Phrases and Proverbs:
+1. **to peter out**: to gradually stop or disappear: 
